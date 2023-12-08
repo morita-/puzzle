@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04025011c746a1248a49550036469a2a, type: 3}
+  m_Name: Pzl_TipsParams
+  m_EditorClassIdentifier: 
+  Tips:
+  - TipNo: 0
+    name: Bazil
+    Category: 0
+    StoreMonney: 2000
+    StRot: 0
+  - TipNo: 1
+    name: Meril
+    Category: 0
+    StoreMonney: 2000
+    StRot: 0
+  - TipNo: 2
+    name: Kizutchi
+    Category: 0
+    StoreMonney: 2000
+    StRot: -40
+  - TipNo: 3
+    name: Kanzashi
+    Category: 1
+    StoreMonney: 1000
+    StRot: 40
+  - TipNo: 4
+    name: StringR
+    Category: 1
+    StoreMonney: 4000
+    StRot: 20
+  - TipNo: 5
+    name: StringB
+    Category: 1
+    StoreMonney: 4000
+    StRot: 20
+  - TipNo: 6
+    name: StringY
+    Category: 1
+    StoreMonney: 4000
+    StRot: 20
+  - TipNo: 7
+    name: StringP
+    Category: 1
+    StoreMonney: 4000
+    StRot: 20
+  - TipNo: 8
+    name: Scroll
+    Category: 2
+    StoreMonney: 15000
+    StRot: 15
+  - TipNo: 9
+    name: Woods2
+    Category: 2
+    StoreMonney: 8000
+    StRot: 0
+  - TipNo: 10
+    name: Suki
+    Category: 2
+    StoreMonney: 12000
+    StRot: 20
+  - TipNo: 11
+    name: Nabe
+    Category: 2
+    StoreMonney: 6000
+    StRot: 0
+  - TipNo: 12
+    name: Mushiki
+    Category: 2
+    StoreMonney: 10000
+    StRot: 20
+  - TipNo: 13
+    name: Kugi
+    Category: 3
+    StoreMonney: 4000
+    StRot: 0
+  - TipNo: 14
+    name: Woods1
+    Category: 3
+    StoreMonney: 3000
+    StRot: 0
+  CompTips:
+  - ID: 0
+    CompResult: Rinshan
+    ResultDetail: 
+    GetMonney: 2500
+    ResultData: Result
+    Category: 0
+    BaseTipNum: 3
+    BaseTip0: Bazil
+    BaseTip1: Kizutchi
+    BaseTip2: Meril
+    BaseTip3: 
+    BaseTip4: 
+    BaseTip5: 
+    BaseTip6: 
+    BaseTip7: 
+    BaseTip8: 
+    BaseTip9: 
+    BaseTip10: 
+  - ID: 1
+    CompResult: Kamikazari
+    ResultDetail: RBY
+    GetMonney: 4000
+    ResultData: Result
+    Category: 1
+    BaseTipNum: 4
+    BaseTip0: Kanzashi
+    BaseTip1: StringR
+    BaseTip2: StringB
+    BaseTip3: StringY
+    BaseTip4: 
+    BaseTip5: 
+    BaseTip6: 
+    BaseTip7: 
+    BaseTip8: 
+    BaseTip9: 
+    BaseTip10: 
+  - ID: 2
+    CompResult: Kamikazari
+    ResultDetail: RBP
+    GetMonney: 4000
+    ResultData: Result
+    Category: 1
+    BaseTipNum: 4
+    BaseTip0: Kanzashi
+    BaseTip1: StringR
+    BaseTip2: StringB
+    BaseTip3: StringP
+    BaseTip4: 
+    BaseTip5: 
+    BaseTip6: 
+    BaseTip7: 
+    BaseTip8: 
+    BaseTip9: 
+    BaseTip10: 
+  - ID: 3
+    CompResult: Kamikazari
+    ResultDetail: RPY
+    GetMonney: 4000
+    ResultData: Result
+    Category: 1
+    BaseTipNum: 4
+    BaseTip0: Kanzashi
+    BaseTip1: StringR
+    BaseTip2: StringP
+    BaseTip3: StringY
+    BaseTip4: 
+    BaseTip5: 
+    BaseTip6: 
+    BaseTip7: 
+    BaseTip8: 
+    BaseTip9: 
+    BaseTip10: 
+  - ID: 4
+    CompResult: Kamikazari
+    ResultDetail: PBY
+    GetMonney: 4000
+    ResultData: Result
+    Category: 1
+    BaseTipNum: 4
+    BaseTip0: Kanzashi
+    BaseTip1: StringP
+    BaseTip2: StringB
+    BaseTip3: StringY
+    BaseTip4: 
+    BaseTip5: 
+    BaseTip6: 
+    BaseTip7: 
+    BaseTip8: 
+    BaseTip9: 
+    BaseTip10: 
+  - ID: 5
+    CompResult: Paper
+    ResultDetail: 
+    GetMonney: 8000
+    ResultData: Result
+    Category: 2
+    BaseTipNum: 5
+    BaseTip0: Scroll
+    BaseTip1: Woods2
+    BaseTip2: Suki
+    BaseTip3: Nabe
+    BaseTip4: Mushiki
+    BaseTip5: 
+    BaseTip6: 
+    BaseTip7: 
+    BaseTip8: 
+    BaseTip9: 
+    BaseTip10: 
+  - ID: 6
+    CompResult: Mushiki
+    ResultDetail: 
+    GetMonney: 0
+    ResultData: Tips
+    Category: 3
+    BaseTipNum: 2
+    BaseTip0: Kugi
+    BaseTip1: Woods1
+    BaseTip2: 
+    BaseTip3: 
+    BaseTip4: 
+    BaseTip5: 
+    BaseTip6: 
+    BaseTip7: 
+    BaseTip8: 
+    BaseTip9: 
+    BaseTip10: 
+  - ID: 7
+    CompResult: Kamikazari
+    ResultDetail: 
+    GetMonney: 3000
+    ResultData: Variation
+    Category: 1
+    BaseTipNum: 4
+    BaseTip0: RBY
+    BaseTip1: RBP
+    BaseTip2: RPY
+    BaseTip3: PBY
+    BaseTip4: 
+    BaseTip5: 
+    BaseTip6: 
+    BaseTip7: 
+    BaseTip8: 
+    BaseTip9: 
+    BaseTip10: 

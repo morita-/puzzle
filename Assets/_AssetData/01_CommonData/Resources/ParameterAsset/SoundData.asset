@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 750aa97833664a84da65c6e7ffeda6d4, type: 3}
+  m_Name: SoundData
+  m_EditorClassIdentifier: 
+  BGM:
+  - idx: 0
+    bgmkey: title
+    path: Sound/BGM
+    file: Adventure Puzzle Medieval
+  - idx: 1
+    bgmkey: main
+    path: Sound/BGM
+    file: Island Puzzle Acoustic
+  - idx: 2
+    bgmkey: result_win
+    path: Sound/BGM
+    file: Epic Puzzle Orchestral
+  - idx: 3
+    bgmkey: result_lose
+    path: Sound/BGM
+    file: Impossible Puzzle Electronic
+  - idx: 4
+    bgmkey: result
+    path: Sound/BGM
+    file: Intense Puzzle Electro
+  - idx: 5
+    bgmkey: next
+    path: Sound/BGM
+    file: Crazy Puzzle Electronic
+  SE:
+  - idx: 0
+    sekey: common_click
+    path: Sound/SE
+    file: DM-CGS-01
+  - idx: 1
+    sekey: common_dicide
+    path: Sound/SE
+    file: DM-CGS-16
+  - idx: 2
+    sekey: common_ng
+    path: Sound/SE
+    file: DM-CGS-22
+  - idx: 3
+    sekey: common_pr_push
+    path: Sound/SE
+    file: DM-CGS-20
+  - idx: 4
+    sekey: common_add_money
+    path: Sound/SE/Coin
+    file: coin_14
+  - idx: 5
+    sekey: game_item_set
+    path: Sound/SE
+    file: DM-CGS-40
+  - idx: 6
+    sekey: game_catch
+    path: Sound/SE
+    file: DM-CGS-21
+  - idx: 7
+    sekey: game_release
+    path: Sound/SE
+    file: DM-CGS-37
+  - idx: 8
+    sekey: game_marge
+    path: Sound/SE
+    file: DM-CGS-32
+  - idx: 9
+    sekey: game_deliver
+    path: Sound/SE
+    file: DM-CGS-28
+  - idx: 10
+    sekey: game_game_clear
+    path: Sound/SE
+    file: DM-CGS-18
+  - idx: 11
+    sekey: game_gauge_up
+    path: Sound/SE
+    file: DM-CGS-49
+  - idx: 12
+    sekey: game_gauge_up_redzone
+    path: Sound/SE
+    file: DM-CGS-35
+  - idx: 13
+    sekey: game_gauge_over
+    path: Sound/SE/GameOver
+    file: game_over_10
+  - idx: 14
+    sekey: game_question_op
+    path: Sound/SE
+    file: DM-CGS-20
+  - idx: 15
+    sekey: game_question_cl
+    path: Sound/SE
+    file: DM-CGS-20
+  - idx: 16
+    sekey: result_item_get
+    path: Sound/SE/Coin
+    file: coin_15
+  - idx: 17
+    sekey: result_restart_game
+    path: Sound/SE
+    file: DM-CGS-05
+  - idx: 18
+    sekey: result_continue_game
+    path: Sound/SE
+    file: DM-CGS-45
+  - idx: 19
+    sekey: next_nextstage
+    path: Sound/SE
+    file: DM-CGS-23
+  - idx: 20
+    sekey: next_open_book
+    path: Sound/SE
+    file: DM-CGS-20
+  - idx: 21
+    sekey: next_select_stage
+    path: Sound/SE
+    file: DM-CGS-26

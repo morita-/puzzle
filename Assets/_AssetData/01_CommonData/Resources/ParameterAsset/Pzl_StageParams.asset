@@ -1,0 +1,7590 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb6fcf91b74bd954599655e21d626a5a, type: 3}
+  m_Name: Pzl_StageParams
+  m_EditorClassIdentifier: 
+  Map0:
+  - StageNo: 0
+    posX: -350
+    posY: -450
+    scale: 2.5
+    booktype: Normal
+    needCash: 3000
+    UpSpeed: 10
+    UpRate: 5
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 1
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 2
+    Start0: Kizutchi
+    Start1: Meril
+    Start2: Bazil
+    Start3: ' '
+    Start4: 
+    Start5: 
+    Start6: 
+    Start7: 
+    Start8: 
+    Start9: 
+    Start10: 
+    Start11: 
+    Start12: 
+    Start13: 
+    Start14: 
+    Start15: 
+    Start16: 
+    Start17: 
+    Start18: 
+    Start19: 
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 5
+    RundumNum: 3
+    CurrentNum: 3
+    MustStTip: 1
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: ' '
+    Tip4: ' '
+    Tip5: ' '
+    Tip6: ' '
+    Tip7: 
+    Tip8: 
+    Tip9: 
+    Tip10: 
+    Tip11: 
+    Tip12: 
+    Tip13: 
+    Tip14: 
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 1
+    posX: -280
+    posY: -450
+    scale: 2.5
+    booktype: Normal
+    needCash: 4000
+    UpSpeed: 10
+    UpRate: 5
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: 
+    ResultTip0_Num: 1
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 4
+    Start0: StringP
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringY
+    Start5: 
+    Start6: 
+    Start7: 
+    Start8: 
+    Start9: 
+    Start10: 
+    Start11: 
+    Start12: 
+    Start13: 
+    Start14: 
+    Start15: 
+    Start16: 
+    Start17: 
+    Start18: 
+    Start19: 
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 5
+    RundumNum: 5
+    CurrentNum: 3
+    MustStTip: 1
+    Tip0: StringY
+    Tip1: StringR
+    Tip2: StringB
+    Tip3: StringP
+    Tip4: Kanzashi
+    Tip5: ' '
+    Tip6: ' '
+    Tip7: 
+    Tip8: 
+    Tip9: 
+    Tip10: 
+    Tip11: 
+    Tip12: 
+    Tip13: 
+    Tip14: 
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 2
+    posX: -210
+    posY: -450
+    scale: 2.5
+    booktype: Normal
+    needCash: 5000
+    UpSpeed: 10
+    UpRate: 5
+    ResultTip0: Paper
+    ResultTip0_Detail: 
+    ResultTip0_Num: 1
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 6
+    Start0: Kugi
+    Start1: Nabe
+    Start2: Suki
+    Start3: Woods2
+    Start4: Woods1
+    Start5: Scroll
+    Start6: 
+    Start7: 
+    Start8: 
+    Start9: 
+    Start10: 
+    Start11: 
+    Start12: 
+    Start13: 
+    Start14: 
+    Start15: 
+    Start16: 
+    Start17: 
+    Start18: 
+    Start19: 
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 5
+    RundumNum: 7
+    CurrentNum: 3
+    MustStTip: 1
+    Tip0: Woods1
+    Tip1: Kugi
+    Tip2: Woods2
+    Tip3: Scroll
+    Tip4: Suki
+    Tip5: Nabe
+    Tip6: Mushiki
+    Tip7: ' '
+    Tip8: 
+    Tip9: 
+    Tip10: 
+    Tip11: 
+    Tip12: 
+    Tip13: 
+    Tip14: 
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 3
+    posX: -140
+    posY: -450
+    scale: 2.5
+    booktype: Event
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 10
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 1
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 1
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: StringR
+    Start1: Woods2
+    Start2: StringB
+    Start3: Woods1
+    Start4: StringY
+    Start5: Scroll
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 5
+    RundumNum: 8
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: ' '
+    Tip9: 
+    Tip10: 
+    Tip11: 
+    Tip12: 
+    Tip13: 
+    Tip14: 
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 4
+    posX: -70
+    posY: -450
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 10
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 1
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 1
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: StringR
+    Start1: Woods2
+    Start2: StringB
+    Start3: Woods1
+    Start4: StringY
+    Start5: Scroll
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 5
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: ' '
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 5
+    posX: 0
+    posY: -450
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 10
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 2
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: StringR
+    Start1: Woods2
+    Start2: StringB
+    Start3: Woods1
+    Start4: StringY
+    Start5: Scroll
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Bazil
+    Start18: Meril
+    Start19: Kizutchi
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 5
+    RundumNum: 3
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 6
+    posX: 70
+    posY: -450
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 10
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 2
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 1
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: StringR
+    Start1: Woods2
+    Start2: StringB
+    Start3: Woods1
+    Start4: StringY
+    Start5: Scroll
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Bazil
+    Start18: Meril
+    Start19: Kizutchi
+    Start20: Kanzashi
+    Start21: StringR
+    Start22: StringB
+    Start23: StringR
+    Start24: StringY
+    Start25: Kanzashi
+    Start26: StringR
+    Start27: StringB
+    Start28: StringR
+    Start29: StringY
+    Start30: 
+    CareerSpeed: 5
+    RundumNum: 8
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 7
+    posX: 140
+    posY: -450
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 10
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 2
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 1
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: StringR
+    Start1: Woods2
+    Start2: StringB
+    Start3: Woods1
+    Start4: StringY
+    Start5: Scroll
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 8
+    posX: 210
+    posY: -450
+    scale: 2.5
+    booktype: Event
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 10
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Meril
+    Start1: StringP
+    Start2: Nabe
+    Start3: Kizutchi
+    Start4: Suki
+    Start5: StringR
+    Start6: Woods2
+    Start7: StringB
+    Start8: Woods1
+    Start9: StringY
+    Start10: Scroll
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Kanzashi
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Bazil
+    Start18: Meril
+    Start19: Kizutchi
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 9
+    posX: 280
+    posY: -450
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 10
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 2
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Meril
+    Start1: StringP
+    Start2: Nabe
+    Start3: Kizutchi
+    Start4: Suki
+    Start5: StringR
+    Start6: Woods2
+    Start7: StringB
+    Start8: Woods1
+    Start9: StringY
+    Start10: Scroll
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Kanzashi
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Bazil
+    Start18: Meril
+    Start19: Kizutchi
+    Start20: Kanzashi
+    Start21: StringR
+    Start22: StringB
+    Start23: StringR
+    Start24: StringY
+    Start25: Kanzashi
+    Start26: StringR
+    Start27: StringB
+    Start28: StringR
+    Start29: StringY
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 10
+    posX: 350
+    posY: -450
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 10
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 2
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Meril
+    Start1: StringP
+    Start2: Nabe
+    Start3: Kizutchi
+    Start4: Suki
+    Start5: StringR
+    Start6: Woods2
+    Start7: StringB
+    Start8: Woods1
+    Start9: StringY
+    Start10: Scroll
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Kanzashi
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 11
+    posX: 350
+    posY: -350
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 10
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 3
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Meril
+    Start1: StringP
+    Start2: Nabe
+    Start3: Kizutchi
+    Start4: Suki
+    Start5: StringR
+    Start6: Woods2
+    Start7: StringB
+    Start8: Woods1
+    Start9: StringY
+    Start10: Scroll
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Kanzashi
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 12
+    posX: 280
+    posY: -350
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 10
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: RBY
+    ResultTip0_Num: 1
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: RBP
+    ResultTip1_Num: 1
+    ResultTip2: Kamikazari
+    ResultTip2_Detail: PBY
+    ResultTip2_Num: 1
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Meril
+    Start1: StringP
+    Start2: Nabe
+    Start3: Kizutchi
+    Start4: Suki
+    Start5: StringR
+    Start6: Woods2
+    Start7: StringB
+    Start8: Woods1
+    Start9: StringY
+    Start10: Scroll
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Kanzashi
+    Start14: Kanzashi
+    Start15: StringR
+    Start16: StringB
+    Start17: StringR
+    Start18: StringY
+    Start19: Kanzashi
+    Start20: StringR
+    Start21: StringB
+    Start22: StringR
+    Start23: StringY
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 13
+    posX: 210
+    posY: -350
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 10
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: RBY
+    ResultTip0_Num: 2
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: RBP
+    ResultTip1_Num: 2
+    ResultTip2: Kamikazari
+    ResultTip2_Detail: PBY
+    ResultTip2_Num: 2
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Meril
+    Start1: StringP
+    Start2: Nabe
+    Start3: Kizutchi
+    Start4: Suki
+    Start5: StringR
+    Start6: Woods2
+    Start7: StringB
+    Start8: Woods1
+    Start9: StringY
+    Start10: Scroll
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Kanzashi
+    Start14: Kanzashi
+    Start15: StringR
+    Start16: StringB
+    Start17: StringR
+    Start18: StringY
+    Start19: Kanzashi
+    Start20: StringR
+    Start21: StringB
+    Start22: StringR
+    Start23: StringY
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 14
+    posX: 140
+    posY: -350
+    scale: 2.5
+    booktype: Event
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 2
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 15
+    posX: 70
+    posY: -350
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 2
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 1
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 16
+    posX: 0
+    posY: -350
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 2
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 1
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 17
+    posX: -70
+    posY: -350
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 18
+    posX: -140
+    posY: -350
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 2
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 19
+    posX: -210
+    posY: -350
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 2
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 20
+    posX: -280
+    posY: -350
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 3
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 21
+    posX: -350
+    posY: -350
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 3
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 22
+    posX: -350
+    posY: -250
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 3
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 23
+    posX: -280
+    posY: -250
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: RBY
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: RBP
+    ResultTip1_Num: 3
+    ResultTip2: Kamikazari
+    ResultTip2_Detail: PBY
+    ResultTip2_Num: 3
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Kanzashi
+    Start7: StringR
+    Start8: StringB
+    Start9: StringR
+    Start10: StringY
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 24
+    posX: -210
+    posY: -250
+    scale: 2.5
+    booktype: Normal
+    needCash: 6000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: RBY
+    ResultTip0_Num: 4
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: RBP
+    ResultTip1_Num: 4
+    ResultTip2: Kamikazari
+    ResultTip2_Detail: PBY
+    ResultTip2_Num: 4
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Kanzashi
+    Start7: StringR
+    Start8: StringB
+    Start9: StringR
+    Start10: StringY
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 8
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 25
+    posX: -140
+    posY: -250
+    scale: 2.5
+    booktype: Event
+    needCash: 11000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Scroll
+    Start7: Woods1
+    Start8: Woods2
+    Start9: Suki
+    Start10: Nabe
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: Scroll
+    Start25: Bazil
+    Start26: Meril
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 26
+    posX: -70
+    posY: -250
+    scale: 2.5
+    booktype: Normal
+    needCash: 7000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Scroll
+    Start7: Woods1
+    Start8: Woods2
+    Start9: Suki
+    Start10: Nabe
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: Scroll
+    Start25: Bazil
+    Start26: Meril
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 27
+    posX: 0
+    posY: -250
+    scale: 2.5
+    booktype: Normal
+    needCash: 7000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Scroll
+    Start7: Woods1
+    Start8: Woods2
+    Start9: Suki
+    Start10: Nabe
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: Scroll
+    Start25: Bazil
+    Start26: Meril
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 28
+    posX: 70
+    posY: -250
+    scale: 2.5
+    booktype: Normal
+    needCash: 7000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Scroll
+    Start7: Woods1
+    Start8: Woods2
+    Start9: Suki
+    Start10: Nabe
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: Scroll
+    Start25: Bazil
+    Start26: Meril
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 29
+    posX: 140
+    posY: -250
+    scale: 2.5
+    booktype: Normal
+    needCash: 7000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Scroll
+    Start7: Woods1
+    Start8: Woods2
+    Start9: Suki
+    Start10: Nabe
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: Scroll
+    Start25: Bazil
+    Start26: Meril
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 30
+    posX: 210
+    posY: -250
+    scale: 2.5
+    booktype: Normal
+    needCash: 7000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Scroll
+    Start7: Woods1
+    Start8: Woods2
+    Start9: Suki
+    Start10: Nabe
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: Scroll
+    Start25: Bazil
+    Start26: Meril
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 31
+    posX: 280
+    posY: -250
+    scale: 2.5
+    booktype: Normal
+    needCash: 7000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Scroll
+    Start7: Woods1
+    Start8: Woods2
+    Start9: Suki
+    Start10: Nabe
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: Scroll
+    Start25: Bazil
+    Start26: Meril
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 32
+    posX: 350
+    posY: -250
+    scale: 2.5
+    booktype: Normal
+    needCash: 7000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Scroll
+    Start7: Woods1
+    Start8: Woods2
+    Start9: Suki
+    Start10: Nabe
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: Scroll
+    Start25: Bazil
+    Start26: Meril
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 33
+    posX: 350
+    posY: -150
+    scale: 2.5
+    booktype: Normal
+    needCash: 7000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Paper
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Scroll
+    Start7: Woods1
+    Start8: Woods2
+    Start9: Suki
+    Start10: Nabe
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: Scroll
+    Start25: Bazil
+    Start26: Meril
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 34
+    posX: 280
+    posY: -150
+    scale: 2.5
+    booktype: Normal
+    needCash: 7000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Paper
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Scroll
+    Start7: Woods1
+    Start8: Woods2
+    Start9: Suki
+    Start10: Nabe
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: Scroll
+    Start25: Bazil
+    Start26: Meril
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 35
+    posX: 210
+    posY: -150
+    scale: 2.5
+    booktype: Normal
+    needCash: 7000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Paper
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Scroll
+    Start7: Woods1
+    Start8: Woods2
+    Start9: Suki
+    Start10: Nabe
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: Scroll
+    Start25: Bazil
+    Start26: Meril
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 36
+    posX: 140
+    posY: -150
+    scale: 2.5
+    booktype: Normal
+    needCash: 7000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Paper
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Kanzashi
+    Start2: StringR
+    Start3: StringB
+    Start4: StringR
+    Start5: StringY
+    Start6: Scroll
+    Start7: Woods1
+    Start8: Woods2
+    Start9: Suki
+    Start10: Nabe
+    Start11: Bazil
+    Start12: Kugi
+    Start13: Meril
+    Start14: StringP
+    Start15: Nabe
+    Start16: Kizutchi
+    Start17: Suki
+    Start18: Kanzashi
+    Start19: StringR
+    Start20: Woods2
+    Start21: StringB
+    Start22: Woods1
+    Start23: StringY
+    Start24: Scroll
+    Start25: Bazil
+    Start26: Meril
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 37
+    posX: 70
+    posY: -150
+    scale: 2.5
+    booktype: Event
+    needCash: 12000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 3
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Woods1
+    Start2: Woods2
+    Start3: Suki
+    Start4: Nabe
+    Start5: Kugi
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: StringR
+    Start15: Woods2
+    Start16: StringB
+    Start17: Woods1
+    Start18: StringY
+    Start19: Scroll
+    Start20: Bazil
+    Start21: Meril
+    Start22: Kizutchi
+    Start23: Kanzashi
+    Start24: StringR
+    Start25: StringB
+    Start26: StringR
+    Start27: StringY
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 38
+    posX: 0
+    posY: -150
+    scale: 2.5
+    booktype: Normal
+    needCash: 8000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 3
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Woods1
+    Start2: Woods2
+    Start3: Suki
+    Start4: Nabe
+    Start5: Kugi
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: StringR
+    Start15: Woods2
+    Start16: StringB
+    Start17: Woods1
+    Start18: StringY
+    Start19: Scroll
+    Start20: Bazil
+    Start21: Meril
+    Start22: Kizutchi
+    Start23: Kanzashi
+    Start24: StringR
+    Start25: StringB
+    Start26: StringR
+    Start27: StringY
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 39
+    posX: -70
+    posY: -150
+    scale: 2.5
+    booktype: Normal
+    needCash: 8000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 4
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Woods1
+    Start2: Woods2
+    Start3: Suki
+    Start4: Nabe
+    Start5: Kugi
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: StringR
+    Start15: Woods2
+    Start16: StringB
+    Start17: Woods1
+    Start18: StringY
+    Start19: Scroll
+    Start20: Bazil
+    Start21: Meril
+    Start22: Kizutchi
+    Start23: Kanzashi
+    Start24: StringR
+    Start25: StringB
+    Start26: StringR
+    Start27: StringY
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 40
+    posX: -140
+    posY: -150
+    scale: 2.5
+    booktype: Normal
+    needCash: 8000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 4
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Woods1
+    Start2: Woods2
+    Start3: Suki
+    Start4: Nabe
+    Start5: Kugi
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: StringR
+    Start15: Woods2
+    Start16: StringB
+    Start17: Woods1
+    Start18: StringY
+    Start19: Scroll
+    Start20: Bazil
+    Start21: Meril
+    Start22: Kizutchi
+    Start23: Kanzashi
+    Start24: StringR
+    Start25: StringB
+    Start26: StringR
+    Start27: StringY
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 41
+    posX: -210
+    posY: -150
+    scale: 2.5
+    booktype: Normal
+    needCash: 8000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 4
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Woods1
+    Start2: Woods2
+    Start3: Suki
+    Start4: Nabe
+    Start5: Kugi
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: StringR
+    Start15: Woods2
+    Start16: StringB
+    Start17: Woods1
+    Start18: StringY
+    Start19: Scroll
+    Start20: Bazil
+    Start21: Meril
+    Start22: Kizutchi
+    Start23: Kanzashi
+    Start24: StringR
+    Start25: StringB
+    Start26: StringR
+    Start27: StringY
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 42
+    posX: -280
+    posY: -150
+    scale: 2.5
+    booktype: Normal
+    needCash: 8000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 5
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Woods1
+    Start2: Woods2
+    Start3: Suki
+    Start4: Nabe
+    Start5: Kugi
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: StringR
+    Start15: Woods2
+    Start16: StringB
+    Start17: Woods1
+    Start18: StringY
+    Start19: Scroll
+    Start20: Bazil
+    Start21: Meril
+    Start22: Kizutchi
+    Start23: Kanzashi
+    Start24: StringR
+    Start25: StringB
+    Start26: StringR
+    Start27: StringY
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 43
+    posX: -350
+    posY: -150
+    scale: 2.5
+    booktype: Normal
+    needCash: 8000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 5
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Woods1
+    Start2: Woods2
+    Start3: Suki
+    Start4: Nabe
+    Start5: Kugi
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: StringR
+    Start15: Woods2
+    Start16: StringB
+    Start17: Woods1
+    Start18: StringY
+    Start19: Scroll
+    Start20: Bazil
+    Start21: Meril
+    Start22: Kizutchi
+    Start23: Kanzashi
+    Start24: StringR
+    Start25: StringB
+    Start26: StringR
+    Start27: StringY
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 44
+    posX: -350
+    posY: -50
+    scale: 2.5
+    booktype: Normal
+    needCash: 8000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 5
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Woods1
+    Start2: Woods2
+    Start3: Suki
+    Start4: Nabe
+    Start5: Kugi
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: StringR
+    Start15: Woods2
+    Start16: StringB
+    Start17: Woods1
+    Start18: StringY
+    Start19: Scroll
+    Start20: Bazil
+    Start21: Meril
+    Start22: Kizutchi
+    Start23: Kanzashi
+    Start24: StringR
+    Start25: StringB
+    Start26: StringR
+    Start27: StringY
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 45
+    posX: -280
+    posY: -50
+    scale: 2.5
+    booktype: Normal
+    needCash: 8000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 6
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Woods1
+    Start2: Woods2
+    Start3: Suki
+    Start4: Nabe
+    Start5: Kugi
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: StringR
+    Start15: Woods2
+    Start16: StringB
+    Start17: Woods1
+    Start18: StringY
+    Start19: Scroll
+    Start20: Bazil
+    Start21: Meril
+    Start22: Kizutchi
+    Start23: Kanzashi
+    Start24: StringR
+    Start25: StringB
+    Start26: StringR
+    Start27: StringY
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 46
+    posX: -210
+    posY: -50
+    scale: 2.5
+    booktype: Normal
+    needCash: 8000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 6
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Woods1
+    Start2: Woods2
+    Start3: Suki
+    Start4: Nabe
+    Start5: Kugi
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: StringR
+    Start15: Woods2
+    Start16: StringB
+    Start17: Woods1
+    Start18: StringY
+    Start19: Scroll
+    Start20: Bazil
+    Start21: Meril
+    Start22: Kizutchi
+    Start23: Kanzashi
+    Start24: StringR
+    Start25: StringB
+    Start26: StringR
+    Start27: StringY
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 3
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 47
+    posX: -140
+    posY: -50
+    scale: 2.5
+    booktype: Normal
+    needCash: 8000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 6
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Woods1
+    Start2: Woods2
+    Start3: Suki
+    Start4: Nabe
+    Start5: Kugi
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: StringR
+    Start15: Woods2
+    Start16: StringB
+    Start17: Woods1
+    Start18: StringY
+    Start19: Scroll
+    Start20: Bazil
+    Start21: Meril
+    Start22: Kizutchi
+    Start23: Kanzashi
+    Start24: StringR
+    Start25: StringB
+    Start26: StringR
+    Start27: StringY
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 48
+    posX: -70
+    posY: -50
+    scale: 2.5
+    booktype: Normal
+    needCash: 8000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 7
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Woods1
+    Start2: Woods2
+    Start3: Suki
+    Start4: Nabe
+    Start5: Kugi
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: StringR
+    Start15: Woods2
+    Start16: StringB
+    Start17: Woods1
+    Start18: StringY
+    Start19: Scroll
+    Start20: Bazil
+    Start21: Meril
+    Start22: Kizutchi
+    Start23: Kanzashi
+    Start24: StringR
+    Start25: StringB
+    Start26: StringR
+    Start27: StringY
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 49
+    posX: 0
+    posY: -50
+    scale: 2.5
+    booktype: Normal
+    needCash: 8000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 7
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Scroll
+    Start1: Woods1
+    Start2: Woods2
+    Start3: Suki
+    Start4: Nabe
+    Start5: Kugi
+    Start6: Bazil
+    Start7: Kugi
+    Start8: Meril
+    Start9: StringP
+    Start10: Nabe
+    Start11: Kizutchi
+    Start12: Suki
+    Start13: Kanzashi
+    Start14: StringR
+    Start15: Woods2
+    Start16: StringB
+    Start17: Woods1
+    Start18: StringY
+    Start19: Scroll
+    Start20: Bazil
+    Start21: Meril
+    Start22: Kizutchi
+    Start23: Kanzashi
+    Start24: StringR
+    Start25: StringB
+    Start26: StringR
+    Start27: StringY
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 50
+    posX: 70
+    posY: -50
+    scale: 2.5
+    booktype: Event
+    needCash: 13000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 2
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Bazil
+    Start18: Meril
+    Start19: Kizutchi
+    Start20: Kanzashi
+    Start21: StringR
+    Start22: StringB
+    Start23: StringR
+    Start24: StringY
+    Start25: Kanzashi
+    Start26: StringR
+    Start27: StringB
+    Start28: StringR
+    Start29: StringY
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 51
+    posX: 140
+    posY: -50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 2
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 52
+    posX: 210
+    posY: -50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 3
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 53
+    posX: 280
+    posY: -50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: RBY
+    ResultTip0_Num: 1
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: RBP
+    ResultTip1_Num: 1
+    ResultTip2: Kamikazari
+    ResultTip2_Detail: PBY
+    ResultTip2_Num: 1
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Kanzashi
+    Start15: StringR
+    Start16: StringB
+    Start17: StringR
+    Start18: StringY
+    Start19: Kanzashi
+    Start20: StringR
+    Start21: StringB
+    Start22: StringR
+    Start23: StringY
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 54
+    posX: 350
+    posY: -50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: RBY
+    ResultTip0_Num: 2
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: RBP
+    ResultTip1_Num: 2
+    ResultTip2: Kamikazari
+    ResultTip2_Detail: PBY
+    ResultTip2_Num: 2
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Kanzashi
+    Start15: StringR
+    Start16: StringB
+    Start17: StringR
+    Start18: StringY
+    Start19: Kanzashi
+    Start20: StringR
+    Start21: StringB
+    Start22: StringR
+    Start23: StringY
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 55
+    posX: 350
+    posY: 50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 56
+    posX: 280
+    posY: 50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 57
+    posX: 210
+    posY: 50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 58
+    posX: 140
+    posY: 50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 59
+    posX: 70
+    posY: 50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 60
+    posX: 0
+    posY: 50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 61
+    posX: -70
+    posY: 50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 62
+    posX: -140
+    posY: 50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 63
+    posX: -210
+    posY: 50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Paper
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 64
+    posX: -280
+    posY: 50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Paper
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 65
+    posX: -350
+    posY: 50
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Paper
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 66
+    posX: -350
+    posY: 150
+    scale: 2.5
+    booktype: Normal
+    needCash: 9000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Paper
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Kizutchi
+    Start1: Suki
+    Start2: Kanzashi
+    Start3: StringR
+    Start4: Woods2
+    Start5: Bazil
+    Start6: Kugi
+    Start7: Meril
+    Start8: StringP
+    Start9: Nabe
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 67
+    posX: -280
+    posY: 150
+    scale: 2.5
+    booktype: Event
+    needCash: 14000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 3
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 16
+    Start0: Bazil
+    Start1: Meril
+    Start2: Kizutchi
+    Start3: Kanzashi
+    Start4: StringR
+    Start5: StringB
+    Start6: StringR
+    Start7: StringY
+    Start8: Scroll
+    Start9: Woods1
+    Start10: Woods2
+    Start11: Suki
+    Start12: Nabe
+    Start13: Kugi
+    Start14: Bazil
+    Start15: Kugi
+    Start16: Meril
+    Start17: StringP
+    Start18: Nabe
+    Start19: Kizutchi
+    Start20: Suki
+    Start21: Kanzashi
+    Start22: StringR
+    Start23: Woods2
+    Start24: StringB
+    Start25: Woods1
+    Start26: StringY
+    Start27: Scroll
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 68
+    posX: -210
+    posY: 150
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 3
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 16
+    Start0: Bazil
+    Start1: Meril
+    Start2: Kizutchi
+    Start3: Kanzashi
+    Start4: StringR
+    Start5: StringB
+    Start6: StringR
+    Start7: StringY
+    Start8: Scroll
+    Start9: Woods1
+    Start10: Woods2
+    Start11: Suki
+    Start12: Nabe
+    Start13: Kugi
+    Start14: Bazil
+    Start15: Kugi
+    Start16: Meril
+    Start17: StringP
+    Start18: Nabe
+    Start19: Kizutchi
+    Start20: Suki
+    Start21: Kanzashi
+    Start22: StringR
+    Start23: Woods2
+    Start24: StringB
+    Start25: Woods1
+    Start26: StringY
+    Start27: Scroll
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 69
+    posX: -140
+    posY: 150
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 4
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 16
+    Start0: Bazil
+    Start1: Meril
+    Start2: Kizutchi
+    Start3: Kanzashi
+    Start4: StringR
+    Start5: StringB
+    Start6: StringR
+    Start7: StringY
+    Start8: Scroll
+    Start9: Woods1
+    Start10: Woods2
+    Start11: Suki
+    Start12: Nabe
+    Start13: Kugi
+    Start14: Bazil
+    Start15: Kugi
+    Start16: Meril
+    Start17: StringP
+    Start18: Nabe
+    Start19: Kizutchi
+    Start20: Suki
+    Start21: Kanzashi
+    Start22: StringR
+    Start23: Woods2
+    Start24: StringB
+    Start25: Woods1
+    Start26: StringY
+    Start27: Scroll
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 70
+    posX: -70
+    posY: 150
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 4
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 16
+    Start0: Bazil
+    Start1: Meril
+    Start2: Kizutchi
+    Start3: Kanzashi
+    Start4: StringR
+    Start5: StringB
+    Start6: StringR
+    Start7: StringY
+    Start8: Scroll
+    Start9: Woods1
+    Start10: Woods2
+    Start11: Suki
+    Start12: Nabe
+    Start13: Kugi
+    Start14: Bazil
+    Start15: Kugi
+    Start16: Meril
+    Start17: StringP
+    Start18: Nabe
+    Start19: Kizutchi
+    Start20: Suki
+    Start21: Kanzashi
+    Start22: StringR
+    Start23: Woods2
+    Start24: StringB
+    Start25: Woods1
+    Start26: StringY
+    Start27: Scroll
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 71
+    posX: 0
+    posY: 150
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 4
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 16
+    Start0: Bazil
+    Start1: Meril
+    Start2: Kizutchi
+    Start3: Kanzashi
+    Start4: StringR
+    Start5: StringB
+    Start6: StringR
+    Start7: StringY
+    Start8: Scroll
+    Start9: Woods1
+    Start10: Woods2
+    Start11: Suki
+    Start12: Nabe
+    Start13: Kugi
+    Start14: Bazil
+    Start15: Kugi
+    Start16: Meril
+    Start17: StringP
+    Start18: Nabe
+    Start19: Kizutchi
+    Start20: Suki
+    Start21: Kanzashi
+    Start22: StringR
+    Start23: Woods2
+    Start24: StringB
+    Start25: Woods1
+    Start26: StringY
+    Start27: Scroll
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 72
+    posX: 70
+    posY: 150
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 5
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 16
+    Start0: Bazil
+    Start1: Meril
+    Start2: Kizutchi
+    Start3: Kanzashi
+    Start4: StringR
+    Start5: StringB
+    Start6: StringR
+    Start7: StringY
+    Start8: Scroll
+    Start9: Woods1
+    Start10: Woods2
+    Start11: Suki
+    Start12: Nabe
+    Start13: Kugi
+    Start14: Bazil
+    Start15: Kugi
+    Start16: Meril
+    Start17: StringP
+    Start18: Nabe
+    Start19: Kizutchi
+    Start20: Suki
+    Start21: Kanzashi
+    Start22: StringR
+    Start23: Woods2
+    Start24: StringB
+    Start25: Woods1
+    Start26: StringY
+    Start27: Scroll
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 73
+    posX: 140
+    posY: 150
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 5
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 16
+    Start0: Bazil
+    Start1: Meril
+    Start2: Kizutchi
+    Start3: Kanzashi
+    Start4: StringR
+    Start5: StringB
+    Start6: StringR
+    Start7: StringY
+    Start8: Scroll
+    Start9: Woods1
+    Start10: Woods2
+    Start11: Suki
+    Start12: Nabe
+    Start13: Kugi
+    Start14: Bazil
+    Start15: Kugi
+    Start16: Meril
+    Start17: StringP
+    Start18: Nabe
+    Start19: Kizutchi
+    Start20: Suki
+    Start21: Kanzashi
+    Start22: StringR
+    Start23: Woods2
+    Start24: StringB
+    Start25: Woods1
+    Start26: StringY
+    Start27: Scroll
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 74
+    posX: 210
+    posY: 150
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 5
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 16
+    Start0: Bazil
+    Start1: Meril
+    Start2: Kizutchi
+    Start3: Kanzashi
+    Start4: StringR
+    Start5: StringB
+    Start6: StringR
+    Start7: StringY
+    Start8: Scroll
+    Start9: Woods1
+    Start10: Woods2
+    Start11: Suki
+    Start12: Nabe
+    Start13: Kugi
+    Start14: Bazil
+    Start15: Kugi
+    Start16: Meril
+    Start17: StringP
+    Start18: Nabe
+    Start19: Kizutchi
+    Start20: Suki
+    Start21: Kanzashi
+    Start22: StringR
+    Start23: Woods2
+    Start24: StringB
+    Start25: Woods1
+    Start26: StringY
+    Start27: Scroll
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 75
+    posX: 280
+    posY: 150
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 6
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 16
+    Start0: Bazil
+    Start1: Meril
+    Start2: Kizutchi
+    Start3: Kanzashi
+    Start4: StringR
+    Start5: StringB
+    Start6: StringR
+    Start7: StringY
+    Start8: Scroll
+    Start9: Woods1
+    Start10: Woods2
+    Start11: Suki
+    Start12: Nabe
+    Start13: Kugi
+    Start14: Bazil
+    Start15: Kugi
+    Start16: Meril
+    Start17: StringP
+    Start18: Nabe
+    Start19: Kizutchi
+    Start20: Suki
+    Start21: Kanzashi
+    Start22: StringR
+    Start23: Woods2
+    Start24: StringB
+    Start25: Woods1
+    Start26: StringY
+    Start27: Scroll
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 76
+    posX: 350
+    posY: 150
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 6
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 16
+    Start0: Bazil
+    Start1: Meril
+    Start2: Kizutchi
+    Start3: Kanzashi
+    Start4: StringR
+    Start5: StringB
+    Start6: StringR
+    Start7: StringY
+    Start8: Scroll
+    Start9: Woods1
+    Start10: Woods2
+    Start11: Suki
+    Start12: Nabe
+    Start13: Kugi
+    Start14: Bazil
+    Start15: Kugi
+    Start16: Meril
+    Start17: StringP
+    Start18: Nabe
+    Start19: Kizutchi
+    Start20: Suki
+    Start21: Kanzashi
+    Start22: StringR
+    Start23: Woods2
+    Start24: StringB
+    Start25: Woods1
+    Start26: StringY
+    Start27: Scroll
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 77
+    posX: 350
+    posY: 250
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 6
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 16
+    Start0: Bazil
+    Start1: Meril
+    Start2: Kizutchi
+    Start3: Kanzashi
+    Start4: StringR
+    Start5: StringB
+    Start6: StringR
+    Start7: StringY
+    Start8: Scroll
+    Start9: Woods1
+    Start10: Woods2
+    Start11: Suki
+    Start12: Nabe
+    Start13: Kugi
+    Start14: Bazil
+    Start15: Kugi
+    Start16: Meril
+    Start17: StringP
+    Start18: Nabe
+    Start19: Kizutchi
+    Start20: Suki
+    Start21: Kanzashi
+    Start22: StringR
+    Start23: Woods2
+    Start24: StringB
+    Start25: Woods1
+    Start26: StringY
+    Start27: Scroll
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 78
+    posX: 280
+    posY: 250
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 7
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 16
+    Start0: Bazil
+    Start1: Meril
+    Start2: Kizutchi
+    Start3: Kanzashi
+    Start4: StringR
+    Start5: StringB
+    Start6: StringR
+    Start7: StringY
+    Start8: Scroll
+    Start9: Woods1
+    Start10: Woods2
+    Start11: Suki
+    Start12: Nabe
+    Start13: Kugi
+    Start14: Bazil
+    Start15: Kugi
+    Start16: Meril
+    Start17: StringP
+    Start18: Nabe
+    Start19: Kizutchi
+    Start20: Suki
+    Start21: Kanzashi
+    Start22: StringR
+    Start23: Woods2
+    Start24: StringB
+    Start25: Woods1
+    Start26: StringY
+    Start27: Scroll
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 79
+    posX: 210
+    posY: 250
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 20
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 7
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 16
+    Start0: Bazil
+    Start1: Meril
+    Start2: Kizutchi
+    Start3: Kanzashi
+    Start4: StringR
+    Start5: StringB
+    Start6: StringR
+    Start7: StringY
+    Start8: Scroll
+    Start9: Woods1
+    Start10: Woods2
+    Start11: Suki
+    Start12: Nabe
+    Start13: Kugi
+    Start14: Bazil
+    Start15: Kugi
+    Start16: Meril
+    Start17: StringP
+    Start18: Nabe
+    Start19: Kizutchi
+    Start20: Suki
+    Start21: Kanzashi
+    Start22: StringR
+    Start23: Woods2
+    Start24: StringB
+    Start25: Woods1
+    Start26: StringY
+    Start27: Scroll
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 80
+    posX: 140
+    posY: 250
+    scale: 2.5
+    booktype: Event
+    needCash: 15000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 81
+    posX: 70
+    posY: 250
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 82
+    posX: 0
+    posY: 250
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 3
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 83
+    posX: -70
+    posY: 250
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 84
+    posX: -140
+    posY: 250
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 85
+    posX: -210
+    posY: 250
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 86
+    posX: -280
+    posY: 250
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 87
+    posX: -350
+    posY: 250
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Kamikazari
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 88
+    posX: -350
+    posY: 350
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Paper
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 89
+    posX: -280
+    posY: 350
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Paper
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: Kugi
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 90
+    posX: -210
+    posY: 350
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Paper
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 3
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 91
+    posX: -140
+    posY: 350
+    scale: 2.5
+    booktype: Normal
+    needCash: 10000
+    UpSpeed: 10
+    UpRate: 30
+    ResultTip0: Paper
+    ResultTip0_Detail: 
+    ResultTip0_Num: 7
+    ResultTip1: 
+    ResultTip1_Detail: 
+    ResultTip1_Num: 0
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 15
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: Bazil
+    Start15: Meril
+    Start16: Kizutchi
+    Start17: Kanzashi
+    Start18: StringR
+    Start19: StringB
+    Start20: StringR
+    Start21: StringY
+    Start22: Scroll
+    Start23: Woods1
+    Start24: Woods2
+    Start25: Suki
+    Start26: Nabe
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 92
+    posX: -70
+    posY: 350
+    scale: 2.5
+    booktype: Event
+    needCash: 15000
+    UpSpeed: 10
+    UpRate: 40
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 3
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 3
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: 
+    Start15: 
+    Start16: 
+    Start17: 
+    Start18: 
+    Start19: 
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 93
+    posX: 0
+    posY: 350
+    scale: 2.5
+    booktype: Normal
+    needCash: 12000
+    UpSpeed: 10
+    UpRate: 40
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 3
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: 
+    Start15: 
+    Start16: 
+    Start17: 
+    Start18: 
+    Start19: 
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 94
+    posX: 70
+    posY: 350
+    scale: 2.5
+    booktype: Normal
+    needCash: 12000
+    UpSpeed: 10
+    UpRate: 40
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 4
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: 
+    Start15: 
+    Start16: 
+    Start17: 
+    Start18: 
+    Start19: 
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 95
+    posX: 140
+    posY: 350
+    scale: 2.5
+    booktype: Normal
+    needCash: 12000
+    UpSpeed: 10
+    UpRate: 40
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 4
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 4
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: 
+    Start15: 
+    Start16: 
+    Start17: 
+    Start18: 
+    Start19: 
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 96
+    posX: 210
+    posY: 350
+    scale: 2.5
+    booktype: Normal
+    needCash: 12000
+    UpSpeed: 10
+    UpRate: 40
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 4
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: 
+    Start15: 
+    Start16: 
+    Start17: 
+    Start18: 
+    Start19: 
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 3
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 97
+    posX: 280
+    posY: 350
+    scale: 2.5
+    booktype: Normal
+    needCash: 12000
+    UpSpeed: 10
+    UpRate: 40
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 5
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: 
+    Start15: 
+    Start16: 
+    Start17: 
+    Start18: 
+    Start19: 
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 3
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 98
+    posX: 350
+    posY: 350
+    scale: 2.5
+    booktype: Normal
+    needCash: 12000
+    UpSpeed: 10
+    UpRate: 40
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 5
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 5
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: 
+    Start15: 
+    Start16: 
+    Start17: 
+    Start18: 
+    Start19: 
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 3
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 99
+    posX: 350
+    posY: 450
+    scale: 2.5
+    booktype: Normal
+    needCash: 12000
+    UpSpeed: 10
+    UpRate: 40
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 5
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 14
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: StringP
+    Start4: Nabe
+    Start5: Kizutchi
+    Start6: Suki
+    Start7: Kanzashi
+    Start8: StringR
+    Start9: Woods2
+    Start10: StringB
+    Start11: Woods1
+    Start12: StringY
+    Start13: Scroll
+    Start14: 
+    Start15: 
+    Start16: 
+    Start17: 
+    Start18: 
+    Start19: 
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 0
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
+  - StageNo: 100
+    posX: 280
+    posY: 450
+    scale: 2.5
+    booktype: End
+    needCash: 20000
+    UpSpeed: 10
+    UpRate: 50
+    ResultTip0: Rinshan
+    ResultTip0_Detail: 
+    ResultTip0_Num: 6
+    ResultTip1: Kamikazari
+    ResultTip1_Detail: 
+    ResultTip1_Num: 6
+    ResultTip2: 
+    ResultTip2_Detail: 
+    ResultTip2_Num: 0
+    TipSort: Normal
+    TipStartNum: 3
+    Start0: Bazil
+    Start1: Kugi
+    Start2: Meril
+    Start3: 
+    Start4: 
+    Start5: 
+    Start6: 
+    Start7: 
+    Start8: 
+    Start9: 
+    Start10: 
+    Start11: 
+    Start12: 
+    Start13: 
+    Start14: 
+    Start15: 
+    Start16: 
+    Start17: 
+    Start18: 
+    Start19: 
+    Start20: 
+    Start21: 
+    Start22: 
+    Start23: 
+    Start24: 
+    Start25: 
+    Start26: 
+    Start27: 
+    Start28: 
+    Start29: 
+    Start30: 
+    CareerSpeed: 10
+    RundumNum: 14
+    CurrentNum: 3
+    MustStTip: 3
+    Tip0: Bazil
+    Tip1: Meril
+    Tip2: Kizutchi
+    Tip3: Kanzashi
+    Tip4: StringR
+    Tip5: StringB
+    Tip6: StringY
+    Tip7: StringP
+    Tip8: Scroll
+    Tip9: Woods1
+    Tip10: Woods2
+    Tip11: Kugi
+    Tip12: Suki
+    Tip13: Nabe
+    Tip14: Mushiki
+    Tip15: 
+    Tip16: 
+    Tip17: 
+    Tip18: 
+    Tip19: 
+    Tip20: 
